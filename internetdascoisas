@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>Atividade Ifal</title>
+</head>
+
+<body>
+
+
+<style>
+  
+  body {
+    
+    background-color: rgba(127, 255, 244, 0.733);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    position: absolute;
+  }
+  h1 {
+    
+    color: rgb(233, 10, 222);
+  }
+  h2 {
+    color: #e90ade;
+  }
+  h3 {
+    font-family: 'Gill Sans';
+    font-size: 20px ;
+    color: #e90ade;
+  }
+  h4 {
+    font-family: 'Gill Sans';
+    font-size: 30px ;
+    color: #e90ade;
+  }
+  p {
+    color: #e90ade;
+    font-family: 'Gill Sans';
+    font-size: 30px ;
+    align="justify"
+  }
+
+li {
+flex-grow:3;
+}
+
+footer {
+color: #e90ade;
+position: fixed;
+bottom: 0;
+
+}
+
+</style>
+</head>
+<body>
+
+<center>
+<header>
+  <div class="cabeçalho">     
+    <div class="logo">
+        <img src="C:\Users\emano\OneDrive\Área de Trabalho\Aulas Ifal\img\imagem1.jpg" alt="imagem1" height="300" width="1200"/>
+    </div>   
+</header>
+<hr size="5">
+<header>
+  <img src="C:\Users\emano\OneDrive\Área de Trabalho\Aulas Ifal\img\foto.jpg" alt="foto" height="200" width="200"/>
+  <h3>Me chamo, Emanoelly Maria Bezerra da Silva, sou aluna do Curso de Tecnico em Informática do IFAL.</h3>
+</header>
+<header>
+<h1>Gestão e Qualidade de Software</h1>
+<h2>Internet das Coisas</h2>
+<h4>Introdução</h4>
+  <p>
+     Introdução de Internet das Coisas, segundo; Magrani (2018) autor do Livro A Internet das Coisas. A tecnologia está mudando
+   rapidamente a maneira como interagimos com o mundo à nossa volta. Visando atender às mais novas demandas dos consumidores, empresas 
+   estão desenvolvendo hoje produtos com interfaces tecnológicas que seriam inimagináveis há uma década. Sistemas automatizados que acendem 
+   as luzes e aquecem o jantar ao perceber que você está retornando do trabalho para casa, pulseiras e palmilhas inteligentes que compartilham
+  com seus amigos o quanto você andou a pé ou de bicicleta durante o dia na cidade ou sensores que avisam automaticamente aos fazendeiros 
+  quando um animal está doente ou prenhe.Todos esses exemplos são manifestações consideradas tecnologias inovadoras associadas 
+  ao conceito que vem sendo construído de internet das coisas (internet of things, IoT).</p>
+  <img src="C:\Users\emano\OneDrive\Área de Trabalho\Aulas Ifal\img\internet.jpg" alt="internet" height="500" width="1200"/>
+</header>
+
+
+<h2>Links</h2>
+<p>Desvelando A Internet das Coisas: <a href="https://www.researchgate.net/profile/Adelino-Gala/publication/327601891_Desvelando_a_Internet_das_Coisas/links/5b991fe5299bf14ad4d41ca3/Desvelando-a-Internet-das-Coisas.pdf">Artigo</a></p>
+<p>Livro A Internet das Coisas: <a href="https://bibliotecadigital.fgv.br/dspace/bitstream/handle/10438/23898/A%2520internet%2520das%2520coisas.pdf?sequence=1">livro</a></p>
+<p>Internet das Coisas: Teoria e Prática: <a href="https://homepages.dcc.ufmg.br/~mmvieira/cc/papers/internet-das-coisas.pdf">Artigo</a></p>
+<p>Curso Internet das Coisas: <a href="https://www.youtube.com/watch?v=y8AzBpdQWHU">Curso em Video</a>
+  <div class="footer">     
+    <div class="logo.ifal">
+        <img src="C:\Users\emano\OneDrive\Área de Trabalho\Aulas Ifal\img\logo.ifal.png" alt="logo.ifal" height="100" width="100"/>
+    </div>   
+  </p>
+<footer> 
+  Trabalho da disciplina de Gestão e Qualidade de Software.
+  </footer>
+  </center>
+</body>
+</html>
